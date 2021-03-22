@@ -5,3 +5,11 @@
 - Upload pictures
 - Rate pictures
 - Ranking by location / category / area of interest. 
+- Complex searching filters
+- Multiples counties, towns, cities
+- Different laguages automatic refresh
+- Contact forms
+- License - Terms and conditions
+- About us
+- Help
+- Functioning explanation
